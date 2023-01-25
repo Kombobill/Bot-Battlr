@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-https://code-challenge-2-ph2-nic6y4yun-jesalim.vercel.app/
+https://code-challenge-2-ph2-nic6y4yun-Kombobill.vercel.app/
 
 ### `npm run build`
 
