@@ -1,5 +1,5 @@
 {
-  "name": "code-challenge-2-ph2",
+  "name": "bot-battir",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,6 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "start:server": "json-server --watch db.json",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
